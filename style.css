@@ -97,6 +97,8 @@ section{
 
 .header .logo span{
     color:var(--box-shadow);
+    height: 12px;
+    width: 12px;
 }
 
 .header .navbar a{
@@ -121,7 +123,7 @@ section{
     border-radius:25px;
     border: none;
 }
-     
+   
 .search{
     float:right;
     padding: 2px;
